@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmetalkan.github.io/sanliurfa-hali-yikama-rehberi/sitemap.xml
